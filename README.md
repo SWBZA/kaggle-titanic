@@ -13,7 +13,7 @@ I used two algorithms:
 - 7x2 lambda 0.3: score: 
 
 
-Second, tools from Machine Learning A-Zª: Hands-On Python & R In Data Science
+Second, tools from Machine Learning A-ZÂª: Hands-On Python & R In Data Science
 (Python, Jupyter Notebooks)
 https://www.udemy.com/course/machinelearning/
 
@@ -25,8 +25,8 @@ https://www.udemy.com/course/machinelearning/
 * Random Forest - score: 0.76076
 * CatBoost - score: 0.76794
 * Neural nets:
-- 7x2 Adam score:
+- 7x2 adam score:
 - 7x2 rmsprop score: 
-- 7x4 Adam score:
+- 7x4 adam score:
 - 7x4 nadam score: 
 
