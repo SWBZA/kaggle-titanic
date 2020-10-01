@@ -9,8 +9,8 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 I used two algorithms:
 * Support Vector Machine - score: 0.78947
 * Neural Network
-- 7x7 lambda 0.005: score:  
-- 7x2 lambda 0.3: score: 
+  - 7x7 lambda 0.005: score:  
+  - 7x2 lambda 0.3: score: 
 
 
 Second, tools from Machine Learning A-Zª: Hands-On Python & R In Data Science
@@ -25,8 +25,8 @@ https://www.udemy.com/course/machinelearning/
 * Random Forest - score: 0.76076
 * CatBoost - score: 0.76794
 * Neural nets:
-- 7x2 adam score:
-- 7x2 rmsprop score: 
-- 7x4 adam score:
-- 7x4 nadam score: 
+  - 7x2 adam score:
+  - 7x2 rmsprop score: 
+  - 7x4 adam score:
+  - 7x4 nadam score: 
 
