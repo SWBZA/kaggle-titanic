@@ -21,12 +21,12 @@ https://www.udemy.com/course/machinelearning/
 
 | Algorithm                     | Score   |
 |-------------------------------|---------|
-| Kernel Support Vector Machine |         |
+| Kernel Support Vector Machine: |         |
 | - linear                      | 0.76555 |
 | - rbf                         | 0.78229 |
 | - poly                        | 0.76794 |
 | - sigmoid                     | 0.63875 |
-| Decision Tree                 |         |
+| Decision Tree:                 |         |
 | - entropy                     | 0.72488 |
 | - gini                        | 0.70574 |
 | Naive Bayes                   | 0.74401 |
