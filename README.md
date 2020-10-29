@@ -8,14 +8,13 @@
 Tools learned in the Andrew Ng [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning/home/welcome) offered by Stanford.   (Octave Gnu)
 
 
-
-* Support Vector Machine - score: 0.78947
-* Logistic Regression - score: 0.76315
-* Neural Network
-  - 7x7 lambda 0.005: score: 0.75358  
-  - 7x2 lambda 0.3: score: 0.77990
-
-
+| Algorithm | Score |
+|-----------|-------|
+|  Support Vector Machine         |  0.78947    | 
+|  Logistic Regression        |    0.76315   | 
+|   Neural Network:        |       | 
+|    - 7x7 lambda 0.005      |   0.75358    | 
+|      - 7x2 lambda 0.3     |   0.77990   | 
 
 ## Second
 Tools from [Machine Learning A-Zª: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
@@ -32,12 +31,4 @@ Tools from [Machine Learning A-Zª: Hands-On Python & R In Data Science](https:/
 	* entropy: 0.72488
 	* gini: 0.70574 
 
-* Naive Bayes - score: 0.74401
-* Random Forest - score: 0.76076
-* CatBoost - score: 0.76794
-* Neural nets:
-  - 7x2 adam score: 0.76794
-  - 7x2 rmsprop score: 0.77272
-  - 7x4 adam score: 0.75837
-  - 7x4 nadam score: 0.77511
 
